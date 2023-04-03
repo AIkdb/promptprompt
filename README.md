@@ -1,1 +1,3 @@
-# promptprompt
+# PromptPrompt.wiki
+## 为什么做这个页面？
+### 为了帮助超级家长和教育工作者用好各种AI工具，帮自己和孩子成为最好的自己。
